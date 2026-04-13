@@ -36,6 +36,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=swarnqaar&theme=tokyo-night&hide_border=true" />
 
+## 🐍 Contribution Snake (Live Animation)
+
+![snake gif](https://github.com/swarnqaar/swarnqaar/blob/output/github-contribution-grid-snake.svg)
 
 
 
