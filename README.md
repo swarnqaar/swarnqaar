@@ -21,11 +21,18 @@
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-red?logo=java) 
 
+### 🤖 AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111?style=for-the-badge&logo=scikit-learn)
+![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
+
+
 
 ## 📊 GitHub Stats
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=swarnqaar&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight)
