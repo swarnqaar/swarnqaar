@@ -27,6 +27,11 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111?style=for-the-badge&logo=scikit-learn)
 ![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
 
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+
 
 
 ## 📊 GitHub Stats
