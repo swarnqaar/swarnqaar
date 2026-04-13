@@ -14,3 +14,12 @@
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-red?logo=java) 
+
+
+## 📊 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
