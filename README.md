@@ -1,8 +1,6 @@
-## Hey!👋I am Shubham kumar...
+### Hi! I'm Shubham Kumar, a passionate B.Tech Computer Science (AI/ML) Engineer |
 <!--
-**swarnqaar/swarnqaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+** I specialize in building intelligent systems using Machine Learning, Deep Learning, and AI Agents. I enjoy solving real-world problems using data-driven approaches and continuously exploring new technologies.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
