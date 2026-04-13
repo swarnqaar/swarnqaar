@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shubham+Kumar;AI%2FML+Engineer+%7C+AI+Agents+Developer;Building+Next-Gen+Intelligent+Systems;Open+to+Opportunities+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shubham+Kumar;AI%2FML+Engineer+%7C+AI+Agents+Developer;Building+Next-Gen+Intelligent+Systems;Open+to+Opportunities+🚀" />
 </p>
 
 
