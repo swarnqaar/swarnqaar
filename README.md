@@ -39,14 +39,16 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=swarnqaar&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=swarnqaar&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
 
 ## 🌐 Connect With Me
 
