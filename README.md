@@ -6,3 +6,11 @@
 - 🌱 I’m currently learning Computer Vision.
 - 👯 I’m looking to collaborate on project from which i can upskill myself and implements my idea.
 - 🤔 I’m looking for help with AI/ML internship.
+- 🧠 I'm Strong in DSA & Problem Solving.
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-red?logo=java) 
