@@ -41,3 +41,12 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=swarnqaar&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight)
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-kumar-02ab4a28a/"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:shubamkumar3039@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail"></a>
+</p>
+
