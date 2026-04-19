@@ -17,11 +17,11 @@
 ## 🚀 Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
-![R](https://img.shields.io/badge/R-111?style=for-the-badge&logo=r)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🤖 AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
