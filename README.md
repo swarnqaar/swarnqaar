@@ -79,7 +79,6 @@
 
 ## 🐍 Contribution Snake (Live Animation)
 
-![snake dark](https://github.com/swarnqaar/swarnqaar/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
