@@ -18,8 +18,10 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-red?logo=java) 
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
+![R](https://img.shields.io/badge/R-111?style=for-the-badge&logo=r)
 
 ### 🤖 AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
