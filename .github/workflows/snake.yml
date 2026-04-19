@@ -1,18 +1,21 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
-  workflow_dispatch:       # allows manual run
+    - cron: "0 0 * * *"
 
 permissions:
-  contents: write
+  contents: write   # ✅ VERY IMPORTANT
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -21,8 +24,9 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # ✅ THIS LINE FIXES IT
+          publish_dir: dist
+          publish_branch: output
