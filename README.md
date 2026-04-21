@@ -79,7 +79,7 @@
 
 ## 🐍 Contribution Snake (Live Animation)
 
-![snake dark](https://github.com/swarnqaar/swarnqaar/blob/output/snake-dark.svg)
+![snake dark](https://github.com/swarnqaar/swarnqaar/blob/output/snake.svg)
 
 
 ## 📊 GitHub Analytics
