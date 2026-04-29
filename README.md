@@ -44,9 +44,27 @@
 
 <br>
 
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNN-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-20B2AA?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Transformers-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-FF1493?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-00C7B7?style=for-the-badge"/>
 
 </p>
+
+
 
 ### ⚙️ Tools
 
