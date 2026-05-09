@@ -125,18 +125,6 @@
 </p>
 
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  
-  <img src="https://streak-stats.demolab.com/?user=swarnqaar&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
-</p>
-
 
 ## 🌐 Connect With Me
 
