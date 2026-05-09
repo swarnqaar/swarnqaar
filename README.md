@@ -125,12 +125,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <img src="https://streak-stats.demolab.com/?user=swarnqaar&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="center">
