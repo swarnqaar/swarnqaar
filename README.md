@@ -114,7 +114,6 @@
 ![snake dark](https://github.com/swarnqaar/swarnqaar/blob/output/snake.svg)
 
 
-## 📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
