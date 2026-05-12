@@ -46,11 +46,11 @@
 ### 🤖 AI / ML Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,keras,opencv&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=keras&theme=dark" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
