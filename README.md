@@ -91,8 +91,11 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=F37626"/>
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white&labelColor=FF0000"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=0194E2"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=FF4B4B"/>
+  <img src="https://img.shields.io/badge/DagsHub-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000"/>
 </p>
 
 ### ☁️ Deployment & Cloud
