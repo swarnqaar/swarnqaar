@@ -22,15 +22,17 @@
 # Hi!👋I'm Shubham Kumar, a passionate B.Tech Computer Science (AI/ML) Engineer.
 ## I specialize in building intelligent systems using Machine Learning, Deep Learning, and AI Agents. I enjoy solving real-world problems using data-driven approaches and continuously exploring new technologies.
 
-<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-
 - 🔭 I’m currently working on MultiAgent System.
 - 🌱 I’m currently learning Computer Vision.
 - 👯 I’m looking to collaborate on project from which i can
   upskill myself and implements my idea.
 - 🤔 I’m looking for help with AI/ML internship.  
 - 🧠 I'm Strong in DSA & Problem Solving.
-- 
+
+
+<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+
+
 <img align="right" alt="AI Brain GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZyZzBhOGF2cGJkbGZtOTZ6czBteHo3anh3NzVoNzFsMXl3ejFtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
