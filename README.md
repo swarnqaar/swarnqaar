@@ -17,14 +17,6 @@
 ## 🚀 Tech Stack
 
 ### 💻 Languages
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
-</p>
 
 <p align="center">
 
@@ -36,10 +28,9 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn&theme=dark" />
+
 
 <br>
 
