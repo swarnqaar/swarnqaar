@@ -90,7 +90,10 @@
   <img src="https://img.shields.io/badge/DagsHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50"/>
+</p>
 
 ### ☁️ Deployment & Cloud
 
