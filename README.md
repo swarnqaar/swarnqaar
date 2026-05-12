@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20[Shubham%20Kumar]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue&logo=github)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=swarnqaar&style=for-the-badge&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/swarnqaar?style=for-the-badge&color=blue&logo=github)](https://github.com/yourusername)
 
 </div>
 
