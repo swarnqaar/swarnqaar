@@ -26,6 +26,12 @@
 
 </p>
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,postgresql,r&theme=dark" />
+
+</p>
+
 ### 🤖 AI/ML
 
 <p align="center">
