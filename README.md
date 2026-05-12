@@ -159,6 +159,19 @@
 </div>
 
 
+<div align="center">
+
+```
+🔬 Research        ████████████░░░░  75%  — RAG & Vector Search
+🤖 LLM Engineering ██████████░░░░░░  65%  — Fine-tuning & Prompt Engineering
+☁️  MLOps          ████████░░░░░░░░  50%  — CI/CD for ML Pipelines
+📈 Competitions    ██████░░░░░░░░░░  25%  — Kaggle Grandmaster Journey
+```
+
+</div>
+
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
