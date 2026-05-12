@@ -150,6 +150,14 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Swarnqaar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
 
 
 ## 🌐 Connect With Me
