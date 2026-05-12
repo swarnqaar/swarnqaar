@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20[Shubham%20Kumar]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Shubham%20Kumar%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55" />
 
 <br/>
 
@@ -30,6 +30,9 @@
   upskill myself and implements my idea.
 - 🤔 I’m looking for help with AI/ML internship.  
 - 🧠 I'm Strong in DSA & Problem Solving.
+- 
+<img align="right" alt="AI Brain GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZyZzBhOGF2cGJkbGZtOTZ6czBteHo3anh3NzVoNzFsMXl3ejFtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 
 ## 🚀 Tech Stack
 
