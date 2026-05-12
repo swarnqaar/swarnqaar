@@ -138,6 +138,16 @@
 ## 🐍 Contribution Snake (Live Animation)
 
 ![snake dark](https://github.com/swarnqaar/swarnqaar/blob/output/snake.svg)
+
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swarnqaar/Swarnqaar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swarnqaar/Swarnqaar/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Swarnqaar/Swarnqaar/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 ## 📊 GitHub Analytics
 
 <p align="center">
