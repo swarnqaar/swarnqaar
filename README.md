@@ -29,7 +29,6 @@
 
 ### 🤖 AI/ML
 
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> 
