@@ -28,10 +28,10 @@
 
 <p align="center">
 
-
 <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn&theme=dark" />
 
 
+</p>
 <br>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
