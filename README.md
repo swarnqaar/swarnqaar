@@ -157,7 +157,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Swarnqaar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
-
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -165,10 +165,12 @@
 🔬 Research        ████████████░░░░  75%  — RAG & Vector Search
 🤖 LLM Engineering ██████████░░░░░░  65%  — Fine-tuning & Prompt Engineering
 ☁️  MLOps          ████████░░░░░░░░  50%  — CI/CD for ML Pipelines
-📈 Competitions    ██████░░░░░░░░░░  25%  — Kaggle Grandmaster Journey
+📈 Competitions    ██████░░░░░░░░░░  40%  — Kaggle Grandmaster Journey
 ```
 
 </div>
+
+---
 
 
 
