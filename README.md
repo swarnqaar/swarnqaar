@@ -31,8 +31,69 @@
 - 🤔 I’m looking for help with AI/ML internship.  
 - 🧠 I'm Strong in DSA & Problem Solving.
 
+
 ## 🚀 Tech Stack
 
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,r&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,keras,opencv,sklearn&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=150458"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RNN-FF6F61?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNN-FF8C00?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LSTM-20B2AA?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-1E90FF?style=flat-square&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-000000?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-FF1493?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-00C7B7?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+</p>
+
+---
+
+### ⚙️ Tools & IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,mongodb,docker,kubernetes&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DagsHub-000000?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 Deployment & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,vercel,fastapi,streamlit&theme=dark" />
+</p>
 ### 💻 Languages
 
 <p align="center">
@@ -133,15 +194,6 @@
 
 ![snake dark](https://github.com/swarnqaar/swarnqaar/blob/output/snake.svg)
 
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swarnqaar/Swarnqaar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swarnqaar/Swarnqaar/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Swarnqaar/Swarnqaar/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -161,7 +213,6 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Swarnqaar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
-
 
 
 ## 🌐 Connect With Me
