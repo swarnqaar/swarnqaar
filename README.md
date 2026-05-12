@@ -1,3 +1,23 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Turning+Data+into+Decisions+📊;Building+Intelligent+Systems+🤖;Machine+Learning+%7C+Deep+Learning+🧠;Always+Learning%2C+Always+Growing+🚀" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue&logo=github)](https://github.com/yourusername)
+
+</div>
+
+
+
 <!-- 🔥 Typing Animation Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shubham+Kumar;AI%2FML+Engineer+%7C+AI+Agents+Developer;Building+Next-Gen+Intelligent+Systems;Open+to+Opportunities+🚀" />
