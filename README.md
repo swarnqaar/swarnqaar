@@ -34,7 +34,7 @@
 <img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 
-<img align="right" alt="AI Brain GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZyZzBhOGF2cGJkbGZtOTZ6czBteHo3anh3NzVoNzFsMXl3ejFtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="left" alt="AI Brain GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZyZzBhOGF2cGJkbGZtOTZ6czBteHo3anh3NzVoNzFsMXl3ejFtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 
