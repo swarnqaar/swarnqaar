@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on MultiAgent System.
 - 🌱 I’m currently learning Computer Vision.
 - 👯 I’m looking to collaborate on project from which i can upskill myself
--     and implements my idea.
+      and implements my idea.
 - 🤔 I’m looking for help with AI/ML internship.  
 - 🧠 I'm Strong in DSA & Problem Solving.
 
