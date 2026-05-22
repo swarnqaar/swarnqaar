@@ -119,12 +119,6 @@
 
 </p>
 
-<!-- Save as skills.svg in your repo and embed like this -->
-<img src="./assets/skills.svg" />
-
-<!-- Or use this service for auto-generated animated bars -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/
-  profile-details?username=swarnqaar&theme=tokyonight" />
 
 ## 📈 Contribution Graph
 
@@ -145,6 +139,18 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api
+    ?username=swarnqaar&show_icons=true&theme=tokyonight
+    &hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com
+    /?user=swarnqaar&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph
+    ?username=swarnqaar&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ## 🏆 GitHub Trophies
 
