@@ -119,6 +119,13 @@
 
 </p>
 
+<!-- Save as skills.svg in your repo and embed like this -->
+<img src="./assets/skills.svg" />
+
+<!-- Or use this service for auto-generated animated bars -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/
+  profile-details?username=swarnqaar&theme=tokyonight" />
+
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=swarnqaar&theme=tokyo-night&hide_border=true" />
