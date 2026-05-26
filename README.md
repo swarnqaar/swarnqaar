@@ -141,27 +141,7 @@
 </p>
 
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api
-    ?username=swarnqaar&show_icons=true&theme=tokyonight
-    &hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com
-    /?user=swarnqaar&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph
-    ?username=swarnqaar&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
-<!-- Animated status badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_Status-Building_LLMs-blueviolet
-    ?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Kaggle-Active-20BEFF
-    ?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_To-Collaborate-success
-    ?style=for-the-badge&logo=github" />
-</p>
 
 ## 🌐 Connect With Me
 
