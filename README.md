@@ -77,6 +77,7 @@
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge"/>
 
 </p>
 
