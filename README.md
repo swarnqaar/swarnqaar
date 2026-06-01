@@ -11,12 +11,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=250&section=header&text=Shubham%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Machine+Learning+Enthusiast;Building+AI+Agents+and+LLMs;Open+to+Opportunities+🚀" />
-</p>
-
 
 <!-- 🔥 Typing Animation Header -->
 <p align="center">
