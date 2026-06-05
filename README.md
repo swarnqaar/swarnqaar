@@ -138,9 +138,10 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   
-  <img src="https://streak-stats.demolab.com/?user=swarnqaar&theme=tokyonight&hide_border=true" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
- 
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
