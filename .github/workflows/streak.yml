@@ -1,0 +1,15 @@
+# .github/workflows/streak.yml
+name: GitHub Streak Stats
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: swarnqaar
+          theme: tokyonight
+          hide_border: true
