@@ -136,7 +136,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://[YOUR-VERCEL-DOMAIN.vercel.app](https://github-readme-stats-a-git-a24229-shubamkumar3039-4129s-projects.vercel.app/)/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=swarnqaar&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
