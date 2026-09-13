@@ -159,7 +159,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-9ecw.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-9ecw.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight&hide_border=true"
     width="40%"
     alt="Top Languages"
   />
