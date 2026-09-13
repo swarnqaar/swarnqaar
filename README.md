@@ -149,6 +149,22 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://(https://github-readme-stats-9ecw.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true)"
+    width="48%"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://(https://github-readme-stats-9ecw.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true)"
+    width="40%"
+    alt="Top Languages"
+  />
+</p>
+
 
 
 
