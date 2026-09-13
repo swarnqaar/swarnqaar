@@ -130,12 +130,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=swarnqaar&theme=tokyo-night&hide_border=true" />
 
 
-<h2 align="center">📈 GitHub Activity</h2>
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=swarnqaar&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph-sigma-mauve.vercel.app/graph?username=swarnqaar&theme=tokyo-night&hide_border=true"
     width="95%"
+    alt="GitHub Activity Graph"
   />
 </p>
 
