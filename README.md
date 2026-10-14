@@ -85,7 +85,7 @@
 
 </p>
 
-### ⚙️ Tools
+### ⚙️ Important Tools
 
 <p align="center">
 
