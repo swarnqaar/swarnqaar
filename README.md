@@ -46,7 +46,7 @@
 
 </p>
 
-### 🤖 AI/ML SKILLS
+### 🤖 AI/ML And Others SKILLS
 
 <p align="center">
 
