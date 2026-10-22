@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
+<!-- Profile Views &  My Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=swarnqaar&style=for-the-badge&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/swarnqaar?style=for-the-badge&color=blue&logo=github)](https://github.com/Swarnqaar)
 
