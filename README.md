@@ -125,7 +125,7 @@
 </p>
 
 
-## 📈 Contribution Graph
+## 📈 Graph Of Contributions
 
 <p align="center">
   <img
