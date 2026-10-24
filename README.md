@@ -135,7 +135,7 @@
   />
 </p>
 
-## 🐍 Contribution Snake (Live Animation)
+## 🐍Snake Of Contribution  (Live Animation)
 
 ![snake dark](https://github.com/swarnqaar/swarnqaar/blob/output/snake.svg)
 
