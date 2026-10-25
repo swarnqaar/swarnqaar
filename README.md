@@ -35,7 +35,7 @@
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
+### 💻  Coding Languages
 
 <p align="center">
 
