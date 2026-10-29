@@ -33,7 +33,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
-## 🚀 Tech Stack
+## 🚀 Technology Stack
 
 ### 💻 Programming Languages
 
