@@ -162,7 +162,7 @@
 
 
 
-## 🌐 Connect Me On these
+## 🌐 Connect Me On these platforms 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-kumar-02ab4a28a/">
