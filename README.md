@@ -23,7 +23,7 @@
 ## I specialize in building intelligent systems using Machine Learning, Deep Learning, and AI Agents. I enjoy solving real-world problems using data-driven approaches and continuously exploring new technologies.
 
 - 🔭 I’m currently working on MultiAgent System.
-- 🌱 I’m currently learning Computer Vision Agentic AI.
+- 🌱 I’m currently learning Computer Vision And Agentic AI.
 - 👯 I’m looking to collaborate on project from which i can
   upskill myself and implements my idea.
 - 🤔 I’m looking for help with AI/ML internship.  
