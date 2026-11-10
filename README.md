@@ -24,8 +24,7 @@
 
 - 🔭 I’m currently working on MultiAgent System.
 - 🌱 I’m currently learning Computer Vision And Agentic AI.
-- 👯 I’m looking to collaborate on project from which i can
-  upskill myself and implements my idea.
+- 👯 I’m looking to collaborate/Contribute on project from which i can upskill myself and implements my idea.
 - 🤔 I’m looking for help with AI/ML internship or any Freelance work.  
 - 🧠 I'm Strong in DataBase, DSA & Problem Solving.
 
