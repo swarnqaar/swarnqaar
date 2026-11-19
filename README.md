@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning Computer Vision And Agentic AI.
 - 👯 I’m looking to collaborate/Contribute on project from which i can upskill myself and implement my idea.
 - 🤔 I’m looking for help with AI/ML internship or any Freelance work or OpenSource Contributions.  
-- 🧠 I'm Strong in DataBase, DSA & Problem Solving.
+- 🧠 I'm Strong in DataBase, DSA & Problem Solving skills.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
