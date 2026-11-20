@@ -20,7 +20,7 @@
 
 # ⭐ About Myself
 # Hi!👋I'm Shubham Kumar, a passionate B.Tech Computer Science (AI/ML) Final Year Engineering student.
-## I specialize in building intelligent systems using Artificial Intelligence, Machine Learning, Deep Learning, and AI Agents. I enjoy solving real-world problems using data-driven approaches and continuously exploring new technologies.
+## I specialize in building intelligent systems using Artificial Intelligence, Machine Learning, Deep Learning,NLP and AI Agents. I enjoy solving real-world problems using data-driven approaches and continuously exploring new technologies.
 
 - 🔭 I’m currently working on MultiAgent System and AI Agents.
 - 🌱 I’m currently learning Computer Vision And Agentic AI.
