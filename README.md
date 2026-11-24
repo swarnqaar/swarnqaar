@@ -124,7 +124,7 @@
 </p>
 
 
-## 📈 Graph Of Contributions
+## 📈 Graph Of Daily Contributions
 
 <p align="center">
   <img
