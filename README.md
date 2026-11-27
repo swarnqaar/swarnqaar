@@ -161,7 +161,7 @@
 
 
 
-## 🌐 Connect Me On these platforms for My Informations
+## 🌐 Connect Me On these platforms for My Contact/Informations
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-kumar-02ab4a28a/">
